@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9aec3b0a-79c4-4428-8b7e-feeb1f9eda5a": {
+      "ProjectGuid": "9aec3b0a-79c4-4428-8b7e-feeb1f9eda5a",
+      "DisplayName": "cam2web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
