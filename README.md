@@ -1,5 +1,10 @@
-![cam2web](images/cam2web.png)
+# Changes for this Fork
+Update libjpeg-turbo with the latest code<br>
+Use the latest C compiler in Visual Studio
+
+
 # cam2web
+![cam2web](images/cam2web.png)
 
 cam2web is an application, which allows streaming a camera to web as MJPEG stream (an URL to provide individual JPEGs is also available). It allows turning a conventional USB camera (or laptop's internal camera) into an IP camera accessible over HTTP. Versions of this application are provided for:
 * Windows - streaming cameras supporting DirectShow API;
