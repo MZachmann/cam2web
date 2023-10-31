@@ -1,6 +1,7 @@
 # Changes for this Fork
 Update libjpeg-turbo with the latest code<br>
 Use the latest C compiler in Visual Studio
+Provide the Windows binaries in the Release tab.
 
 
 # cam2web
